@@ -1,0 +1,22 @@
+{
+  "name": "perf-sitelighthouse",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {},
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@playwright/test": "^1.48.1",
+    "@types/node": "^22.7.5",
+    "lighthouse": "^12.2.1",
+    "playwright": "^1.48.1",
+    "playwright-lighthouse": "^4.0.0"
+  },
+  "dependencies": {
+    "@lhci/utils": "^0.14.0",
+    "get-port": "^7.1.0"
+  }
+}
